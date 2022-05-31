@@ -1,0 +1,1 @@
+console.log(Math.floor(Math.random()*(36-0+1))+0);

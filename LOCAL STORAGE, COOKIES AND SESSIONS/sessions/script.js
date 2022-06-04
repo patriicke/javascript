@@ -1,0 +1,3 @@
+sessionStorage.setItem("name", "Patrick NDAYAMBAJE"); //This is how we set the sessionStorage values that will only use in that single page where we have used it and once the page goes away it's all over
+// sessionStorage.removeItem("name"); //This is how we remove an item in the sessionStorage
+console.log(sessionStorage.getItem("name")) //Here we are getting the data that we have declared in the session storage

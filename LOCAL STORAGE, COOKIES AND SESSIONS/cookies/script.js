@@ -13,4 +13,4 @@ document.cookie = `fname=${lname};expires=${new Date(
   2
 ).toUTCString()}`;
 
-console.log(document.cookiegit)
+console.log(document.cookie)
